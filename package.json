@@ -1,0 +1,19 @@
+{
+  "name": "cloudsponge.js",
+  "version": "0.0.0",
+  "description": "cloudsponge api warpper",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": "",
+  "keywords": [
+    "cloudsponge",
+    "api",
+    "wrapper",
+    "email",
+    "import"
+  ],
+  "author": "hrbg",
+  "license": "MIT"
+}
