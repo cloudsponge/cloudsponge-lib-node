@@ -2,7 +2,7 @@
   "name": "cloudsponge.js",
   "version": "0.0.0",
   "description": "cloudsponge api warpper",
-  "main": "main.js",
+  "main": "cloudsponge.js",
   "scripts": {
     "test": "mocha"
   },

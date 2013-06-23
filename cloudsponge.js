@@ -10,7 +10,7 @@
 //     });
 //   }
 // });
-exports.Import = require("./lib/cloudsponge");
+exports.Importer = require("./lib/importer");
 
 
-// Cloudsponge = require('./main'); AUTHENTICATION = {domain_key: 'RN2UKFNXLW4RTATJHDVU', domain_password: 'qiz6wNmTde0FjI7'}; Cloudsponge.Import('gmail', AUTHENTICATION,function(request){console.log('Callback', request)})
+// cloudsponge = require('./cloudsponge'); AUTHENTICATION = {domain_key: 'RN2UKFNXLW4RTATJHDVU', domain_password: 'qiz6wNmTde0FjI7'}; cloudsponge.Importer('gmail', AUTHENTICATION,function(request){console.log('Callback', request)})
