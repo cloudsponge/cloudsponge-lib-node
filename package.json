@@ -3,6 +3,8 @@
   "version": "0.0.0",
   "description": "cloudsponge api warpper",
   "main": "cloudsponge.js",
+  "author": "hrbg",
+  "license": "MIT",
   "scripts": {
     "test": "mocha"
   },
@@ -14,6 +16,11 @@
     "email",
     "import"
   ],
-  "author": "hrbg",
-  "license": "MIT"
+  "dependencies": {
+    "querystring": "0.2.0",
+    "request": "2.21.0"
+  },
+  "devDependencies": {
+    "openurl": "1.1.0",
+  }
 }
