@@ -22,5 +22,6 @@
   },
   "devDependencies": {
     "openurl": "1.1.0",
-  }
+  },
+  "engine": "node >= 0.10.11"
 }
