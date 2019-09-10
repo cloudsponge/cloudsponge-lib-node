@@ -8,7 +8,7 @@
   "scripts": {
     "test": "mocha"
   },
-  "repository": "",
+  "repository": "git@github.com:cloudsponge/cloudsponge-lib-node.git",
   "keywords": [
     "cloudsponge",
     "api",
@@ -18,10 +18,10 @@
   ],
   "dependencies": {
     "querystring": "0.2.0",
-    "request": "2.21.0"
+    "request": "2.68.0"
   },
   "devDependencies": {
-    "openurl": "1.1.0",
+    "openurl": "1.1.0"
   },
   "engine": "node >= 0.10.11"
 }
