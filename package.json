@@ -6,6 +6,7 @@
   "author": "hrbg",
   "license": "MIT",
   "scripts": {
+    "fix": "npm install --package-lock-only; npm audit fix --force; rm yarn.lock; yarn import; rm package-lock.json; yarn install",
     "test": "mocha"
   },
   "repository": "git@github.com:cloudsponge/cloudsponge-lib-node.git",
